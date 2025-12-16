@@ -5,9 +5,9 @@ import java.util.function.*;
 
 public class Main {
     public static void main(String[] args) {
-        Product p1 = new Product(3, "Café", 2.5);
-        Product p2 = new Product(1, "Thé", 1.5);
-        Product p3 = new Product(2, "Chocolat", 3.0);
+        Product p1 = new Product(1, "Cake", 7.5);
+        Product p2 = new Product(2, "Biscuits", 6.5);
+        Product p3 = new Product(3, "Jus", 3.0);
 
         List<Product> products = new ArrayList<>();
         products.add(p1);
